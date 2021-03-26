@@ -1,7 +1,7 @@
 {
   "name": "Eureka Server",
   "description": "Eureka Server demo project.",
-  "website": "https://github.com/kissaten/heroku-eureka-server-demo",
+  "website": "https://github.com/rodrigues-edu/microservices-deploy-heroku/tree/main/heroku-eureka-server-demo-master",
   "success_url": "/",
   "env": {
       "EUREKA_USER_PASSWORD": {
